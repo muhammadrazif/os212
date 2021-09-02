@@ -1,2 +1,5 @@
-# os212
-Operating Systems 2021-2 (Odd Semester 2021/2022).
+[HOME](.) | [LOG](TXT/mylog.txt)
+
+# Hello
+
+## Muhammad Razif Firmansyah here!
