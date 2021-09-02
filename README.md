@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](TXT/mylinks.txt)
 
 # Hello
 
