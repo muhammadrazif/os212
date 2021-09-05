@@ -2,8 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00  30 L00 General, etc.
-ZCZC W00  50 L01 SCELE/Discord related
-ZCZC W00  20 L02 GitHub and GitHub pages related
+ZCZC W00  30 L00 Gathering information regarding assignment for OS Week 00
+ZCZC W00  50 L01 SCELE/Discord for OS related
+ZCZC W00  20 L02 Creating GitHub and GitHub pages
 ZCZC W00  130 L03 Studying the basic knowledge of OS and its history
-ZCZC W00  70 L04 Making notes to review some knowledge
+ZCZC W00  70 L04 Making notes to review some knowledge 
+ZCZC W00  135 L05 Studying and preparing for the upcoming Quiz 1 on September 5th 2021
