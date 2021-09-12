@@ -36,4 +36,4 @@ This link is about 'What is AWK?'. This link is interesting and helpful because 
 This link is a link to a video explaining basic example and execution of AWK. I believe this link is intersting and helpful for beginner to learn about AWK because the video creator explain every subtopic with much detail without making the people who watch it confused. Overall this video is a great introduction to learn AWK.
 
 10. [Ten](https://youtu.be/_q6Uj4X_knc)<br>
-This link is a link to a video explaining more advanced knowledge of AWK. This link is intersting and helpful for people who wanted to learn more and get on the more advanced side of AWK with a straight-on-point explanation. I think this video will be a great follow-up after after watching the basic explanation video of AWK in link number eight.
+This link is a link to a video explaining more advanced knowledge of AWK. This link is intersting and helpful for people who wanted to learn more and get on the more advanced side of AWK with a straight-on-point explanation. I think this video will be a great follow-up after after watching the basic explanation video of AWK in link number nine.
