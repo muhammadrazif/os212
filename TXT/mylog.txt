@@ -18,3 +18,7 @@ ZCZC W01  10 L12 Assignment #6 for Week 01
 ZCZC W01  15 L13 Assignment #7 for Week 01
 ZCZC W01  20 L14 Assignment #8 for Week 01
 ZCZC W01  75 L15 Assignment #9 for Week 01
+ZCZC W02  90 L16 ZOOM and SCELE related for OS course
+ZCZC W02 135 L17 Watching videos for Cyber Security (in assignment)
+ZCZC W02  70 L18 Read OSC10 chapter 16 and 17
+ZCZC W02 180 L19 Do assignment for Week 2 (technical sucs as exporting public key, etc)
