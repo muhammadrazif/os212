@@ -37,3 +37,17 @@ This link is a link to a video explaining basic example and execution of AWK. I 
 
 10. [Ten](https://youtu.be/_q6Uj4X_knc)<br>
 This link is a link to a video explaining more advanced knowledge of AWK. This link is intersting and helpful for people who wanted to learn more and get on the more advanced side of AWK with a straight-on-point explanation. I think this video will be a great follow-up after after watching the basic explanation video of AWK in link number nine.
+
+Here are my favorite and helpful links for week two! 
+
+11. [Eleven - Intro to Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+This link is a link to a video explaining basic introduction to Cyber Security. This link is intersting and helpful for people who just start to learn about Cyber Securiy since the information and knowledge you could get from this video is a lot and the content writer use a pretty-easy-to-understand words to explain the subject. Overall, it's pretty insightful!
+
+12. [Twelve - Intro to C Programming Language](https://www.youtube.com/watch?v=3lQEunpmtRA)<br>
+This link is a link to a video explaining basic introduction to C Programming Language. This link is intersting and pretty insightful for c-language beginner. Altough the video is not so comprehensive in explaining C, it is enough to give people a brief introduction to the said language.
+
+13. [Thirteen - C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
+This link is a link to a handbook for C Programming Language's beginner. This link is super helpful for me because it basically has everything I need to know as someone who just started learning C. The page is also structured really well and it's easy for me to navigate through it when I am looking for some spesific information.
+
+14. [Fourteen - Basic Programming Excerise for C Language](https://codeforwin.org/2015/05/basic-programming-practice-problems.html)<br>
+This link contains basic exercises for C Programming Language. Again, this link is super helpful for me to exercise my skill in C language. The exercises are not the hardest one you can find out there, which actually is what I am looking for as a beginner who just started to learn C. Overall, a really good page.
