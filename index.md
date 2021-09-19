@@ -8,6 +8,5 @@ My name is Muhammad Razif Firmansyah, a second year student at Universitas Indon
 ---
 ## What to check here?
 ---
-✅ Check my weekly log on the "LOG" tab above to know my activities every week for the Operating System course!
-✅ Check my favorite 10 links everyweek to know some interesting and recommended website from me!
-✅ You can check my repository and GitHub account by clicking the the "REPOSITORY" and "GITHUB" tabs above!
+✅ Check [my top 10 rank here!](TXT/myrank.txt).<br>
+✅ Check my log, links, GitHub, and repository by clicking the tabs above!
