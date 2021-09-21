@@ -51,3 +51,14 @@ This link is a link to a handbook for C Programming Language's beginner. This li
 
 14. [Fourteen - Basic Programming Excerise for C Language](https://codeforwin.org/2015/05/basic-programming-practice-problems.html)<br>
 This link contains basic exercises for C Programming Language. Again, this link is super helpful for me to exercise my skill in C language. The exercises are not the hardest one you can find out there, which actually is what I am looking for as a beginner who just started to learn C. Overall, a really good page.
+
+Here are my favorite and helpful links for week three!
+
+12. [Twelve - Basic of Files and Files System](https://youtu.be/KN8YgJnShPM)<br>
+This link is a link to a video explaining about the basic knowledges that you need to know about file. I think this video is helpful for people who just started to learn about the said topic since the explanation is pretty comprehensive and all of it pack into just a 12 minutes long video.
+
+13. [Thirteen - Basic of Fuse](https://youtu.be/Yd6dy98BRtQ)<br>
+This link is a link to a video explaining about the basic knowledges that you need to know about fuse. This video is quite compact because for a video that is just 33 minutes long, the explanation is much more than enough for beginner to know more about Fuse. Other than that, the video quality is pretty nice!
+
+14. [Fourteen - What is File Hierarchy Standard or FHS?](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+This site explains about everything you need to know about FHS or File Hierarchy Standard. What I found super helpful about this site, is that it covered almost all (if not all) knowledges regarding FHS. Not just that, this site also provides some pictures that will help reader to understand what's the site is talking about. Overall, a really good site with a really clean structure.

@@ -22,3 +22,9 @@ ZCZC W02 100 L02 Weekly OS Class through ZOOM
 ZCZC W02  20 L06 Learning from google about Cyber Security
 ZCZC W02 180 L09 Doing assignment in General
 ZCZC W02  10 L64 Helping friend to solver their OS related problem
+ZCZC W03 100 L02 ZOOM Meetings related / Weekly OS Class
+ZCZC W03  20 L22 Quiz on SCELE
+ZCZC W03 230 L06 GSGS and reading OSC10 chapter 13 to 15
+ZCZC W03  20 L07 Trying demo
+ZCZC W03  75 L05 Studying for quiz by trying previous midterm problem
+ZCZC W03 155 L09 Do assignment for Week 3
