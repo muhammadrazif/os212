@@ -28,3 +28,9 @@ ZCZC W03 230 L06 GSGS and reading OSC10 chapter 13 to 15
 ZCZC W03  20 L07 Trying demo
 ZCZC W03  75 L05 Studying for quiz by trying previous midterm problem
 ZCZC W03 155 L09 Do assignment for Week 3
+ZCZC W04  40 L22 Quiz on SCELE and preparing it as well
+ZCZC W04 100 L02 ZOOM Meetings related / Weekly OS Class
+ZCZC W04 195 L06 GSGS and reading OSC10 chapter 9
+ZCZC W04  35 L07 Trying demo for this week
+ZCZC W04  90 L05 Studying for the upcoming quiz by trying previous midterm problem
+ZCZC W04 170 L09 Do assignment for Week 4

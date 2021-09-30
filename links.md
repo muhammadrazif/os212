@@ -62,3 +62,11 @@ This link is a link to a video explaining about the basic knowledges that you ne
 
 14. [Fourteen - What is File Hierarchy Standard or FHS?](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 This site explains about everything you need to know about FHS or File Hierarchy Standard. What I found super helpful about this site, is that it covered almost all (if not all) knowledges regarding FHS. Not just that, this site also provides some pictures that will help reader to understand what's the site is talking about. Overall, a really good site with a really clean structure.
+
+Here are my favorite and helpful links for week four!
+
+15. [Fifteen - Intro to Addressing, Binding, and Linking](https://youtu.be/40mrrsRJLYc)<br>
+This link is a link to a video explaining about the basic of Addressing, Binding, and Linking. I thinks this video is more than enough to give a basic knowledge regarding the topic. Overall, quite helping.
+
+16. [Sixteen - What is Memory Allocation?](https://youtu.be/RSuZhdwvNmA)<br>
+This link is a alink to a video explaining about memory allocation. I think this video is a quite comprehensive video for an 'intro to memory allocation'. The video itself is brought in a way that is easy for us to understand. Would recommend to watch this video!
