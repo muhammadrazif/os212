@@ -70,3 +70,11 @@ This link is a link to a video explaining about the basic of Addressing, Binding
 
 16. [Sixteen - What is Memory Allocation?](https://youtu.be/RSuZhdwvNmA)<br>
 This link is a alink to a video explaining about memory allocation. I think this video is a quite comprehensive video for an 'intro to memory allocation'. The video itself is brought in a way that is easy for us to understand. Would recommend to watch this video!
+
+Here are my favorite and helpful links for week five!
+
+17. [Seventeen - What is Virtual Memory in OS?](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This page is a page explaining basic and semi-deep introduction to Virtual Memory in Operating System. I think the page is structured really way in a sense of how the reader is brought step by step understanding the topic. Would recommend student to read this page!
+
+18. [Eighteen - Memory Allocation Algorithm](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+This page explains about memory allocation algorithm. I think the page is well-planned because the subject is pretty comprehensive and they could bring this topic in an easy-to-understand way. 
