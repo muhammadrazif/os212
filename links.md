@@ -78,3 +78,11 @@ This page is a page explaining basic and semi-deep introduction to Virtual Memor
 
 18. [Eighteen - Memory Allocation Algorithm](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
 This page explains about memory allocation algorithm. I think the page is well-planned because the subject is pretty comprehensive and they could bring this topic in an easy-to-understand way. 
+
+Here are my favorite and helpful links for week six!
+
+19. [Nineteen - What is Concurrency in OS?](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+This page explains about basic knowledge you need regarding what is concurrency in operating system. The subject explained in this page is brought in an easy to understand manner and also i believe it could help a lot of people to grab the idea of what concurrency really is. Overall a 9 out of 10 star for this page!
+
+20. [Twenty - Process vs Thread](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+This page explains the different between process and thread in operating system. While this page is not the most long out there (it is pretty short) but it successfully explain what people need to know about process, thread, and what differentiate both of them.
