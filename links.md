@@ -86,3 +86,11 @@ This page explains about basic knowledge you need regarding what is concurrency 
 
 20. [Twenty - Process vs Thread](https://www.guru99.com/difference-between-process-and-thread.html)<br>
 This page explains the different between process and thread in operating system. While this page is not the most long out there (it is pretty short) but it successfully explain what people need to know about process, thread, and what differentiate both of them.
+
+Here are my favorite and helpful links for week seven!
+
+21. [Twenty One - What is Process Synchronization in OS?](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This page is an amazing introduction to process synchronization in operating system. I thinks this video is a great way to start your journey on learning about synchronization. The layout of the subject itself is pretty well brought. Would recommend to read this page!
+
+22. [Twenty Two - What is Deadlock, Livelock, and Starvation in OS?](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+Another great page for beginner who only just started on learning about synchronization. This page explains deadlock, livelock, and starvation in a way that is easy for us to understand.I think a lot of people will find this page helpful!
