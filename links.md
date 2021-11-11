@@ -94,3 +94,11 @@ This page is an amazing introduction to process synchronization in operating sys
 
 22. [Twenty Two - What is Deadlock, Livelock, and Starvation in OS?](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
 Another great page for beginner who only just started on learning about synchronization. This page explains deadlock, livelock, and starvation in a way that is easy for us to understand.I think a lot of people will find this page helpful!
+
+Here are my favorite and helpful links for week eight!
+
+23. [Twenty Three - What is Process Scheduling in OS?](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)<br>
+This page explains a quite comprehensive explanation about process scheduling in OS. It even explains about Job Queue, Ready Queue, Device Queue, and many more.The page also explains Two-State Process Model very well.
+
+24. [Twenty Four - What is Multiprocessor Scheduling?](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This page explains a deeper understanding about multiprocessor scheduling. Altough the things being brought in this page is not so comprehensive, it helps beginner to learn about multiprocessor scheduling.
