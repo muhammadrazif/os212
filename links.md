@@ -102,3 +102,11 @@ This page explains a quite comprehensive explanation about process scheduling in
 
 24. [Twenty Four - What is Multiprocessor Scheduling?](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This page explains a deeper understanding about multiprocessor scheduling. Altough the things being brought in this page is not so comprehensive, it helps beginner to learn about multiprocessor scheduling.
+
+Here are my favorite and helpful links for week nine!
+
+25. [Twenty Five - What is Firmware](https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/)<br>
+This page explains about the comprehensive understanding about firmware. Altough this page is quite long, it is helpful for people who want to learn about this.
+
+26. [Twenty Six - What is Bootloader and How Does It Works?](https://www.makeuseof.com/what-is-a-bootloader/)<br>
+This page explains about how a bootloader works. This page does not necessarily be a super comprehensive source of learning about bootloader but it is quite helpful for people who just started to learn about OS.
